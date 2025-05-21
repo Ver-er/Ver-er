@@ -1,6 +1,6 @@
 # Hi there, I’m Vishnu 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Ver-er?label=Follow\&style=social)](https://github.com/Ver-er)
+[![GitHub followers](https://img.shields.io/github/followers/Ver-er?label=Follow\&style=social)](https://github.com/Ver-er) <img src="https://komarev.com/ghpvc/?username=Ver-er&label=Profile%20views&color=0e75b6&style=flat" alt="Ver-er" />
 
 ## 🎓 Education
 
